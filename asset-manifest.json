@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TechStar/static/css/main.ccd407be.css",
+    "main.js": "/TechStar/static/js/main.047ee90e.js",
+    "static/media/new-1.jpg": "/TechStar/static/media/new-1.a475aa2c46f9faf65663.jpg",
+    "static/media/4.jpg": "/TechStar/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/TechStar/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/TechStar/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/TechStar/index.html",
+    "main.ccd407be.css.map": "/TechStar/static/css/main.ccd407be.css.map",
+    "main.047ee90e.js.map": "/TechStar/static/js/main.047ee90e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd407be.css",
+    "static/js/main.047ee90e.js"
+  ]
+}
